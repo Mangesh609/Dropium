@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022786226920",
+    "project_id": "dropium-e9be4",
+    "storage_bucket": "dropium-e9be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022786226920:android:39dac363ea69d67f3d975d",
+        "android_client_info": {
+          "package_name": "com.example.dropium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022786226920-9h18bpfcmbsiva1p3sek9u4ldauar1mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUXpbmK2e5x05C5_EYBFYburZghTboez8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022786226920-9h18bpfcmbsiva1p3sek9u4ldauar1mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
